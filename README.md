@@ -22,4 +22,4 @@ Interactive Power BI dashboard designed to analyze sales performance, profitabil
 
 ## Dashboard Preview
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales Dashboard.png)
